@@ -1,0 +1,9 @@
+This will be the first episode in my training repo.
+The purpose of this training will be to show the process of creating an ARM template in VS Code using IntelliSense and create a 1-click deploy button for GitHub for HTML.
+Outline
+Create GitHub Account
+Install GitHub for desktop
+Install VS-Code
+Install Required Extensions for VS-Code
+Plan the resources to be deployed
+Review configures for API-Version
