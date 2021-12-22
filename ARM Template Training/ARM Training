@@ -20,7 +20,14 @@ Install Required Extensions for VS-Code
 Plan the resources to be deployed
 
 
+
 Review configures for API-Version
+
+https://docs.microsoft.com/en-us/azure/templates/
+
 Create the ARM templates with ARM extension
+
+
+
 Create portion of ARM templates using intellisense
 Create 1 click delpoyment button
